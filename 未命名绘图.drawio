@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="6rb279G1OVSFjhfYAr3R">
-    <mxGraphModel>
+    <mxGraphModel dx="1602" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kKvi5Hy4dLR_A5QTgwgH-2" target="kKvi5Hy4dLR_A5QTgwgH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-5" value="HWC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kKvi5Hy4dLR_A5QTgwgH-8" target="kKvi5Hy4dLR_A5QTgwgH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-8" value="Conv2d&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-10" value="ContextAggregation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-12" value="Conv2d" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-14" value="pool" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-16" value="Sequential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-18" value="Defire" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-20" value="Dropout2d" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
