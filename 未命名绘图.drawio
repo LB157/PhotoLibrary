@@ -57,8 +57,14 @@
         <mxCell id="kKvi5Hy4dLR_A5QTgwgH-20" value="Dropout2d(p=0.5)(64,64)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="665" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kKvi5Hy4dLR_A5QTgwgH-28" target="kKvi5Hy4dLR_A5QTgwgH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kKvi5Hy4dLR_A5QTgwgH-28" value="add(64,64)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKvi5Hy4dLR_A5QTgwgH-30" value="reflecthead" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
